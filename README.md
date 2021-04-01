@@ -20,5 +20,5 @@ npm start
 
 ### API Routes:
 
-GET /api/articles
+GET /api/articles  
 GET /api/articles/:id
